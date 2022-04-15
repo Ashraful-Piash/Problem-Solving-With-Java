@@ -2,7 +2,8 @@ package com.piashraful;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
+        System.out.println("hello");;
 	// write your code here
     }
 }
