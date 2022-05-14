@@ -6,6 +6,7 @@ public class New {
         System.out.println("Alhamdulillah");
         System.out.println("hello");
         System.out.println("O ALLAH , forgive me please. Astag firullah");
+        System.out.println("a");
 
     }
 }
